@@ -2,10 +2,6 @@
 
 粉白冬日主题的 3D 互动圣诞树，纯前端单文件实现，可离线打开，也可部署为静态站点。
 
-## 在线预览
-
-https://seven-70.github.io/7.Christmas/
-
 ## 项目特性
 
 - 粒子圣诞树、飘雪、礼物盒与雪人组成的完整冬日场景
@@ -18,7 +14,7 @@ https://seven-70.github.io/7.Christmas/
 编辑 `recipient.js`，只改双引号里的名字，保存后刷新页面：
 
 ```js
-window.FROSTLIGHT_RECIPIENT = "脆薯条";
+window.FROSTLIGHT_RECIPIENT = "ID";
 ```
 
 ## 本地运行与部署
