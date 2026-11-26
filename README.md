@@ -18,7 +18,7 @@ https://seven-70.github.io/7.Christmas/
 编辑 `recipient.js`，只改双引号里的名字，保存后刷新页面：
 
 ```js
-window.FROSTLIGHT_RECIPIENT = "脆薯条";
+window.FROSTLIGHT_RECIPIENT = "ID";
 ```
 
 ## 本地运行与部署
